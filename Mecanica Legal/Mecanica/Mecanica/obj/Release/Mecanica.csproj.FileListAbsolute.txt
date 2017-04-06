@@ -1,0 +1,11 @@
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Release\Mecanica.exe.config
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Release\Mecanica.exe
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Release\Mecanica.pdb
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.FormularioCadastroCarros.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.FormularioCadastroClientes.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.FormularioCadastroMotos.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.Index.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.Properties.Resources.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.csproj.GenerateResource.Cache
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.exe
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Release\Mecanica.pdb

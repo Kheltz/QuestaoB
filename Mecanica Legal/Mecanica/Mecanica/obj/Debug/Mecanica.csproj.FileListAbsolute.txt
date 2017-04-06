@@ -1,0 +1,12 @@
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Debug\Mecanica.exe.config
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Debug\Mecanica.exe
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\bin\Debug\Mecanica.pdb
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.csprojResolveAssemblyReference.cache
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.FormularioCadastroCarros.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.Properties.Resources.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.csproj.GenerateResource.Cache
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.exe
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.pdb
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.Index.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.FormularioCadastroMotos.resources
+C:\Users\donsa\Desktop\FAEL\Mecanica Legal\Mecanica\Mecanica\obj\Debug\Mecanica.FormularioCadastroClientes.resources
